@@ -1,2 +1,2 @@
 nginx
-ddns-go
+dns-go
