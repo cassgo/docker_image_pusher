@@ -2,3 +2,4 @@ nginx
 jeessy/ddns-go
 gogs/gogs
 nextcloud
+mysql
