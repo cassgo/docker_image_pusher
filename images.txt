@@ -4,3 +4,5 @@ gogs/gogs
 nextcloud
 mysql
 redis
+lobehub/lobe-chat
+mintplexlabs/anythingllm
