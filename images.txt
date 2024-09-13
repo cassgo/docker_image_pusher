@@ -6,7 +6,6 @@ mysql
 redis
 lobehub/lobe-chat
 mintplexlabs/anythingllm
-
 rancher/coreos-etcd
 rancher/rke-tools
 rancher/rke-tools
