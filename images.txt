@@ -6,4 +6,4 @@ mysql
 redis
 lobehub/lobe-chat
 mintplexlabs/anythingllm
-registry:2
+registry
