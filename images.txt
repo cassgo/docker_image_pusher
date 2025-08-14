@@ -7,3 +7,10 @@ redis
 lobehub/lobe-chat
 mintplexlabs/anythingllm
 registry
+timescale/timescaledb:latest-pg15
+postgres
+sonarqube
+influxdb:2.7
+testcontainers/ryuk:0.9.0
+redis:7.0
+mcr.microsoft.com/azure-storage/azurite:3.28.0
